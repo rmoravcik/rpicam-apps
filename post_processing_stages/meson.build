@@ -5,6 +5,7 @@ rpicam_app_src += files([
     'negate_stage.cpp',
     'post_processing_stage.cpp',
     'pwl.cpp',
+    'stacking_stage.cpp',
 ])
 
 post_processing_headers = files([
